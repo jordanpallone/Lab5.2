@@ -1,0 +1,13 @@
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.exe
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.deps.json
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.runtimeconfig.json
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.runtimeconfig.dev.json
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.dll
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\bin\Debug\netcoreapp3.1\Lab5.2-a.pdb
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.csprojAssemblyReference.cache
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.AssemblyInfoInputs.cache
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.AssemblyInfo.cs
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.csproj.CoreCompileInputs.cache
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.dll
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.pdb
+C:\Users\jpallone\dev\Lab5.2-a\Lab5.2-a\obj\Debug\netcoreapp3.1\Lab5.2-a.genruntimeconfig.cache
